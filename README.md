@@ -5,6 +5,9 @@
 Naredi spletno aplikacijo v **Flasku**, kjer uporabnik postavi vprašanje z da/ne.  
 Aplikacija mu vrne odgovor v stilu *Magic 8-ball* (https://en.wikipedia.org/wiki/Magic_8_Ball).  
 
+
+Prejšna vaja (LoveCalc) https://github.com/Pfyber/uvodFlaskSync
+
 ---
 
 ## 2. Osnovna funkcionalnost
@@ -28,3 +31,4 @@ Aplikacija mu vrne odgovor v stilu *Magic 8-ball* (https://en.wikipedia.org/wiki
 - Če vsebuje **“denar”** → “Burek only.”  
 - Če vsebuje **“profesor”** → “F speedrun.”  
 - Če se vprašanje konča z **“!”** → “Ne kriči.”  
+
