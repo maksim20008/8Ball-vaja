@@ -3,7 +3,7 @@
 
 ## 1. Cilj
 Naredi spletno aplikacijo v **Flasku**, kjer uporabnik postavi vprašanje z da/ne.  
-Aplikacija mu vrne odgovor v stilu *Magic 8-ball*.  
+Aplikacija mu vrne odgovor v stilu *Magic 8-ball* (https://en.wikipedia.org/wiki/Magic_8_Ball).  
 
 ---
 
@@ -11,7 +11,7 @@ Aplikacija mu vrne odgovor v stilu *Magic 8-ball*.
 - Prikaži **obrazec** (input + gumb).  
 - Uporabnik vpiše vprašanje.  
 - Program vrne **naključen odgovor** iz vnaprej pripravljenega seznama.
-- Odgovore lahko generiraš z AI. (https://en.wikipedia.org/wiki/Magic_8_Ball)
+- Odgovore lahko generiraš z AI. 
 - Primer odgovorov:  
   - “Da”  
   - “Ne”  
